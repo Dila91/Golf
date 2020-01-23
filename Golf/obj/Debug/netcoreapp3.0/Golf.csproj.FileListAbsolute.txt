@@ -1,0 +1,11 @@
+C:\Users\Lexicon\source\repos\Golf\Golf\bin\Debug\netcoreapp3.0\Golf.exe
+C:\Users\Lexicon\source\repos\Golf\Golf\bin\Debug\netcoreapp3.0\Golf.deps.json
+C:\Users\Lexicon\source\repos\Golf\Golf\bin\Debug\netcoreapp3.0\Golf.runtimeconfig.json
+C:\Users\Lexicon\source\repos\Golf\Golf\bin\Debug\netcoreapp3.0\Golf.runtimeconfig.dev.json
+C:\Users\Lexicon\source\repos\Golf\Golf\bin\Debug\netcoreapp3.0\Golf.dll
+C:\Users\Lexicon\source\repos\Golf\Golf\bin\Debug\netcoreapp3.0\Golf.pdb
+C:\Users\Lexicon\source\repos\Golf\Golf\obj\Debug\netcoreapp3.0\Golf.csprojAssemblyReference.cache
+C:\Users\Lexicon\source\repos\Golf\Golf\obj\Debug\netcoreapp3.0\Golf.AssemblyInfoInputs.cache
+C:\Users\Lexicon\source\repos\Golf\Golf\obj\Debug\netcoreapp3.0\Golf.AssemblyInfo.cs
+C:\Users\Lexicon\source\repos\Golf\Golf\obj\Debug\netcoreapp3.0\Golf.dll
+C:\Users\Lexicon\source\repos\Golf\Golf\obj\Debug\netcoreapp3.0\Golf.pdb
